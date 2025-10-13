@@ -22,7 +22,7 @@ O **Wide Coverage Location** é uma aplicação voltada para exibir áreas de co
 
 Você pode visualizar o projeto clicando na imagem abaixo:
 
-[![Visualização do projeto Wide Coverage Location]([<img src="https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/blob/main/assets/WIDE%20coverage%20-%20Desktop.jpg"/>](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/blob/main/assets/Wide%20Coverage.jpg)?raw=true)](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location)
+[![Visualização do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/raw/main/assets/WIDE%20coverage%20-%20Desktop.jpg)](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location)
 
 *(Certifique-se de que o projeto está publicado no GitHub Pages)*
 
@@ -30,7 +30,7 @@ Você pode visualizar o projeto clicando na imagem abaixo:
 
 ## 🖼️ Demonstração
 
-![Wide Coverage Location - Versão Desktop]()
+![Wide Coverage Location - Versão Desktop](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/raw/main/assets/WIDE%20coverage%20-%20Desktop.jpg)
 
 ---
 
@@ -38,7 +38,5 @@ Você pode visualizar o projeto clicando na imagem abaixo:
 
 - [Acesse meu perfil no GitHub](https://github.com/adilsonribeiroalmeida)
 - [Página do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location)
-
-<!-- markdownlint-enable MD033 -->
 
 <!-- markdownlint-enable MD033 -->
