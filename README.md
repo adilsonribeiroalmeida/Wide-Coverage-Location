@@ -1,10 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 
-# 📍 Coverage Location
+# 📍 Wide Coverage Location
 
 Projeto desenvolvido como parte do meu aprendizado no **[Dev Club](https://www.devclub.com.br)**.
 
-O **Coverage Location** é uma aplicação voltada para exibir áreas de cobertura e localização em mapas, com foco em design simples e interface responsiva.
+O **Wide Coverage Location** é uma aplicação voltada para exibir áreas de cobertura e localização em mapas, com foco em design simples e interface responsiva.
 
 ---
 
@@ -22,7 +22,7 @@ O **Coverage Location** é uma aplicação voltada para exibir áreas de cobertu
 
 Você pode visualizar o projeto clicando na imagem abaixo:
 
-[![Visualização do projeto Coverage Location](https://github.com/adilsonribeiroalmeida/Coverage-Location/blob/main/assets/coverage-location.jpg?raw=true)](https://github.com/adilsonribeiroalmeida/Coverage-Location)
+[![Visualização do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/blob/main/assets/WIDE%20coverage%20-%20Desktop.jpg?raw=true)](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location)
 
 *(Certifique-se de que o projeto está publicado no GitHub Pages)*
 
@@ -30,13 +30,15 @@ Você pode visualizar o projeto clicando na imagem abaixo:
 
 ## 🖼️ Demonstração
 
-![Coverage Location - Mapa de Cobertura](https://github.com/adilsonribeiroalmeida/Coverage-Location/blob/main/assets/coverage-location.jpg?raw=true)
+![Wide Coverage Location - Versão Desktop]()
 
 ---
 
 ## 🔗 Links úteis
 
 - [Acesse meu perfil no GitHub](https://github.com/adilsonribeiroalmeida)
-- [Página do projeto Coverage Location](https://github.com/adilsonribeiroalmeida/Coverage-Location)
+- [Página do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location)
+
+<!-- markdownlint-enable MD033 -->
 
 <!-- markdownlint-enable MD033 -->
