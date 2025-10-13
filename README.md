@@ -21,8 +21,8 @@ O **Wide Coverage Location** é uma aplicação voltada para exibir áreas de co
 ## 💻 Visualização do projeto
 
 Você pode visualizar o projeto clicando na imagem abaixo:
-<img src="https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/blob/main/assets/Wide%20Coverage.jpg"/>
 
+![Visualização do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/raw/main/assets/Wide%20Coverage.jpg)
 
 *(Certifique-se de que o projeto está publicado no GitHub Pages)*
 
