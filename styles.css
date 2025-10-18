@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;500;700&display=swap');
 
+/* ===== RESET BÁSICO ===== */
 * {
   margin: 0;
   padding: 0;
@@ -7,22 +8,26 @@
   font-family: "Poppins", sans-serif;
 }
 
+/* ===== HEADER ===== */
 header {
-  margin-top: 47px;
-  margin-left: 42px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px 42px;
 }
 
-.Link-menu {
+.link-menu {
   font-weight: 400;
   font-size: 14px;
-  line-height: 14px;
+  line-height: 21px;
   text-align: center;
   letter-spacing: 0.875px;
   color: #17233D;
   margin-right: 32px;
+  cursor: pointer;
 }
 
-.button-sign-up {
+.button-sing-up {
   background: #6FBF44;
   border: 1px solid #4CB538;
   border-radius: 6px;
@@ -36,23 +41,34 @@ header {
   color: #FFFFFF;
 }
 
+/* ===== CONTEÚDO PRINCIPAL ===== */
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 100px 40px;
+}
+
 img {
-  margin: 163px 0 0 123px;
-  display: inline-block;
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+div {
+  max-width: 493px;
+  margin-left: 85px;
 }
 
 h1 {
   font-weight: 700;
   font-size: 62px;
   line-height: 82px;
-  letter-spacing: 0.596154px;
+  letter-spacing: 0.6px;
   color: #161A49;
-}
-
-div {
-  display: inline-block;
-  margin-left: 85px;
-  width: 493px;
 }
 
 p {
@@ -65,7 +81,7 @@ p {
   margin-bottom: 55px;
 }
 
-.button-Learn-more {
+.link-learn-more {
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
@@ -74,4 +90,103 @@ p {
   cursor: pointer;
   background: transparent;
   border: none;
+}
+
+/* ===== RESPONSIVIDADE ===== */
+
+/* Tablets e celulares grandes */
+@media (max-width: 1024px) {
+  header {
+    margin: 30px 20px;
+  }
+
+  h1 {
+    font-size: 48px;
+    line-height: 60px;
+  }
+
+  div {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  main {
+    margin: 60px 20px;
+  }
+}
+
+/* Celulares (tela média e pequena) */
+@media (max-width: 768px) {
+  header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* Esconde menu e mostra só o botão "Sign Up" */
+  .link-menu {
+    display: none;
+  }
+
+  .button-sing-up {
+    width: 100px;
+    height: 45px;
+    font-size: 14px;
+  }
+
+  /* Layout empilhado: texto em cima, imagem embaixo */
+  main {
+    flex-direction: column-reverse;
+    margin: 40px 20px;
+    text-align: center;
+  }
+
+  div {
+    width: 100%;
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 28px;
+    margin: 30px 0;
+  }
+
+  img {
+    margin: 40px 0 0 0;
+    width: 100%;
+    max-width: 380px;
+  }
+}
+
+/* Celulares muito pequenos (ex: iPhone SE) */
+@media (max-width: 480px) {
+  header {
+    margin: 20px;
+  }
+
+  .button-sing-up {
+    width: 90px;
+    height: 40px;
+    font-size: 13px;
+  }
+
+  h1 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+
+  img {
+    max-width: 320px;
+  }
 }

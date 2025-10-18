@@ -24,7 +24,7 @@ Você pode visualizar o projeto clicando na imagem abaixo:
 
 ![Visualização do projeto Wide Coverage Location](https://github.com/adilsonribeiroalmeida/Wide-Coverage-Location/raw/main/assets/Wide%20Coverage.jpg)
 
-*(Certifique-se de que o projeto está publicado no GitHub Pages)*
+Certifique-se de que o projeto está publicado no GitHub Pages.
 
 ---
 
